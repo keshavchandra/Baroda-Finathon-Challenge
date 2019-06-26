@@ -7,7 +7,7 @@
 * Opening a new branch and identifying the ideal location for new Branch, ATM or Kiosk, is important to widen its customer base.
 * In gaining new customers, a bank gain edge over other competitors, if it is the first to enter the market, so we predict places where future growth of the bank is tremendous by analyzing upcoming commercial hub and major projects.
 * Analyzing various factors to widen our HNI (High net worth individual) and corporate customer base.
-* The branch location would also be easily accessible by the customers as they are nearby Bus Stops, Metro, Railway Stations etc.
+* The branch location would also be easily accessible by the customers as they are nearby public transport like Bus Stops, Metro, Railway Stations etc.
 
 ## Working
 
